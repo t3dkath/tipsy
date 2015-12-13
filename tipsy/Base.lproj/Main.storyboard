@@ -112,7 +112,7 @@
                                                                             <constraint firstAttribute="width" constant="100" id="R10-Zu-nKD"/>
                                                                         </constraints>
                                                                         <fontDescription key="fontDescription" name="BebasNeueRegular" family="Bebas Neue" pointSize="20"/>
-                                                                        <textInputTraits key="textInputTraits" keyboardType="numberPad" enablesReturnKeyAutomatically="YES"/>
+                                                                        <textInputTraits key="textInputTraits" keyboardType="decimalPad" enablesReturnKeyAutomatically="YES"/>
                                                                         <variation key="default">
                                                                             <mask key="constraints">
                                                                                 <exclude reference="R10-Zu-nKD"/>
@@ -145,7 +145,7 @@
                                                                     <constraint firstAttribute="width" constant="100" id="DOQ-tL-zaL"/>
                                                                 </constraints>
                                                                 <fontDescription key="fontDescription" name="BebasNeueRegular" family="Bebas Neue" pointSize="20"/>
-                                                                <textInputTraits key="textInputTraits" keyboardType="numberPad" enablesReturnKeyAutomatically="YES"/>
+                                                                <textInputTraits key="textInputTraits" keyboardType="decimalPad" enablesReturnKeyAutomatically="YES"/>
                                                                 <variation key="default">
                                                                     <mask key="constraints">
                                                                         <exclude reference="DOQ-tL-zaL"/>

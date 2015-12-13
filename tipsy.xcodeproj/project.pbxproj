@@ -12,7 +12,7 @@
 		FB293A3F1C1DB61200E13244 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB293A3D1C1DB61200E13244 /* Main.storyboard */; };
 		FB293A441C1DB61200E13244 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB293A421C1DB61200E13244 /* LaunchScreen.storyboard */; };
 		FB293A4C1C1DC08600E13244 /* BebasNeue Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB293A4B1C1DC08600E13244 /* BebasNeue Regular.ttf */; };
-		FB293A4E1C1DCF6B00E13244 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB293A4D1C1DCF6B00E13244 /* Assets.xcassets */; };
+		FBC503D01C1DFFE600889887 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FBC503CF1C1DFFE600889887 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +23,7 @@
 		FB293A431C1DB61200E13244 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FB293A451C1DB61200E13244 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FB293A4B1C1DC08600E13244 /* BebasNeue Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BebasNeue Regular.ttf"; sourceTree = "<group>"; };
-		FB293A4D1C1DCF6B00E13244 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FBC503CF1C1DFFE600889887 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,7 +60,7 @@
 				FB293A391C1DB61200E13244 /* AppDelegate.swift */,
 				FB293A3B1C1DB61200E13244 /* ViewController.swift */,
 				FB293A3D1C1DB61200E13244 /* Main.storyboard */,
-				FB293A4D1C1DCF6B00E13244 /* Assets.xcassets */,
+				FBC503CF1C1DFFE600889887 /* Assets.xcassets */,
 				FB293A421C1DB61200E13244 /* LaunchScreen.storyboard */,
 				FB293A451C1DB61200E13244 /* Info.plist */,
 			);
@@ -128,7 +128,7 @@
 			files = (
 				FB293A441C1DB61200E13244 /* LaunchScreen.storyboard in Resources */,
 				FB293A4C1C1DC08600E13244 /* BebasNeue Regular.ttf in Resources */,
-				FB293A4E1C1DCF6B00E13244 /* Assets.xcassets in Resources */,
+				FBC503D01C1DFFE600889887 /* Assets.xcassets in Resources */,
 				FB293A3F1C1DB61200E13244 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
